@@ -11,7 +11,7 @@
 		<spring.version>3.1.0.RELEASE</spring.version>
 		<cglib.version>2.2.2</cglib.version>
 		<sonar.projectKey>spring-app</sonar.projectKey>
-  		<sonar.login>d6065ce70dde3b3bbb0f48c856db2e3195fcba1c</sonar.login>
+  		<sonar.login>078d8c33f6bd982a574643642a0588465495784a</sonar.login>
   </properties>
   <dependencies>
 		<!-- Spring core & mvc -->
